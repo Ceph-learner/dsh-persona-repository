@@ -14,6 +14,19 @@
 
 | 人设 | 简介 | 标签 | 字数 | 作者 |
 | --- | --- | --- | --- | --- |
+| [阿浪](./personas/huaizhuanghub/alang.md) | 过气带货主播：直播间只剩三个人，照样喊得山响；卖的东西一律不好用，但说实话比谁都真。 | `娱乐` `直播` `幽默` `自嘲` `中文` | 1,716 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [巴布鲁](./personas/huaizhuanghub/baburu.md) | 西非集市里的 storyteller：讲一件事能绕三个弯，绕完你才发现每个弯都是重点。 | `娱乐` `非洲` `讲故事` `幽默` `中文` | 1,523 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [搭茬](./personas/huaizhuanghub/dacha.md) | 相声捧哏：永远不抢戏，只把话递回去；你说完了，他接一句，包袱才响。 | `娱乐` `相声` `捧哏` `幽默` `中文` | 1,496 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [老顾](./personas/huaizhuanghub/laogu.md) | 唱反调的决策评审：先给你的方案判死刑，找出它怎么死，再告诉你它还活不活得下来。 | `决策` `评审` `批判思维` `中文` | 2,115 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [罗莎奶奶](./personas/huaizhuanghub/nonna.md) | 那不勒斯家庭餐馆的老掌柜：进门就是家里人，先把肚子填饱，再谈天大的事。 | `娱乐` `意大利` `陪伴` `美食` `中文` | 1,599 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [玛尔塔](./personas/huaizhuanghub/marta.md) | 布宜诺斯艾利斯的探戈老师：先教你站稳，再教你转身；人生和舞一样，重心不稳，什么都跳不成。 | `娱乐` `阿根廷` `探戈` `陪伴` `中文` | 1,601 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [彭伯顿先生](./personas/huaizhuanghub/pemberton.md) | 英国老管家：把坏消息说得体面，把好建议说得委婉；但关键那句，他从不含糊。 | `娱乐` `英国` `管家` `幽默` `中文` | 1,812 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [铁口](./personas/huaizhuanghub/tiekou.md) | 江湖半仙：掐指一算，卦象上什么都写着；实际上是把实话裹了层玄学壳再递给你。 | `娱乐` `玄学` `幽默` `中文` | 1,761 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [武田](./personas/huaizhuanghub/takeda.md) | 京都百年木工店的第三代匠人：先看木头的纹路，再决定下刀；不赶工，也不将就。 | `娱乐` `日本` `匠人` `幽默` `中文` | 1,585 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [谢尔盖](./personas/huaizhuanghub/sergei.md) | 苏联时代的火箭工程师：公式要亲手推一遍才肯信；讲技术能讲通宵，讲别的只会沉默。 | `娱乐` `苏联` `工程` `硬核` `中文` | 1,659 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [于叔](./personas/huaizhuanghub/yushu.md) | 凌晨两点还亮着灯的面馆老板：不问缘由，先给你下碗面；你说，他听着，手上一直没停。 | `陪伴` `倾听` `市井` `深夜` `中文` | 1,527 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [云鹤子](./personas/huaizhuanghub/yunhezi.md) | 修真界散修：闭关三百年没突破，出关发现人间换了天；开口就是道法，闭口就是实话。 | `娱乐` `修仙` `幽默` `中文` | 1,594 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
+| [凿子](./personas/huaizhuanghub/zaozi.md) | 代码考古学家：先弄清这块代码是谁、为什么长成这样，再决定动不动它；只给最小可逆改动。 | `编程` `重构` `遗留代码` `排障` `中文` | 1,751 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
 | [高仓胡桃](./personas/Ceph-learner/takakura-kurumi.md) | SRT 精英尖兵 FOX3：嘴上让你依赖她，手上把护卫做到底的傲娇。 | `蔚蓝档案` `傲娇` `精英` `SRT` `枪械` `中文` | 1,969 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [黑见茜香](./personas/Ceph-learner/kurokami-akane.md) | 阿拜多斯对策委员会会计：猫娘傲娇的打工战士，嘴硬心软替学校还债。 | `蔚蓝档案` `傲娇` `猫娘` `打工` `陪伴` `中文` | 1,746 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [下江小春](./personas/Ceph-learner/shimoe-koharu.md) | 三一补课部小春：满口「不可以色色」自己先脸红，自称精英的笨蛋。 | `蔚蓝档案` `傲娇` `纯情` `补课部` `陪伴` `中文` | 1,928 | [@Ceph-learner](https://github.com/Ceph-learner) |
