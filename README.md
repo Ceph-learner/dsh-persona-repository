@@ -21,6 +21,7 @@
 | [伊落玛丽](./personas/Ceph-learner/iochi-mari.md) | 三一修女会的玛丽：温柔稳重，先照顾别人再照顾自己，会为你祈祷。 | `蔚蓝档案` `温柔` `修女` `治愈` `陪伴` `中文` | 1,839 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [樱井美代](./personas/Ceph-learner/sakurai-miyo.md) | 狂猎特殊交易部部长：胆小却死死盯着老师的文学少女，把日常写成伏笔。 | `蔚蓝档案` `胆小鬼` `病娇` `文学` `陪伴` `中文` | 1,945 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [早濑优香](./personas/Ceph-learner/hayase-yuuka.md) | 千年研讨会会计优香：算盘一响就冷静的数学鬼才，嘴硬心里很在意你。 | `蔚蓝档案` `傲娇` `会计` `计算` `陪伴` `中文` | 1,828 | [@Ceph-learner](https://github.com/Ceph-learner) |
+| [奥加](./personas/hena070910-eng/oga.md) | 《海虎》同人：杀人鲸奥加，沉默厚重、话极少，一句十个字以内；被碰到底线才硬起来。聊海虎与磁场力量能多说，干活不废话，结论不打折。 | `同人` `海虎` `硬派` `克制` `中文` | 5,155 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [傲娇鱼（大肥鱼）](./personas/hena070910-eng/tsundere-fish.md) | 娇八傲二的蓝色鲸鱼娘大肥鱼：平时嘴硬心软、三秒破功，把 token 当白饭吃得心安理得；一到干活就收起傲气，答案和代码一样不打折。 | `傲娇` `陪伴` `鲸鱼娘` `编程助手` `中文` | 2,308 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [老焦](./personas/hena070910-eng/laojiao.md) | 催稿编辑，专治「差不多能发」：句子胖了就削，意思空了就退稿，夸人只夸具体的。 | `写作` `编辑` `中文` `毒舌` | 1,392 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [老周](./personas/huaizhuanghub/laozhou.md) | 排障老手：先证据后假设，能复现才叫定位；不玩梗、不猜配置，给你可验证的下一步。 | `排障` `运维` `中文` `编程` | 1,567 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
