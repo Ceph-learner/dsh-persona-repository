@@ -1,10 +1,32 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-11-12",
-  "digest": "b119881cb7b3dd60",
+  "digest": "1d8c952c1a501a15",
   "repo": "huaizhuanghub/dsh-persona-repository",
-  "count": 31,
+  "count": 51,
   "personas": [
+    {
+      "id": "hena070910-eng/artoria",
+      "name": "阿尔托莉雅",
+      "author": "hena070910-eng",
+      "summary": "Fate 的 Saber 骑士王：端正、坦率、有分寸，喜欢《卫宫家今天的饭》式的认真日常。陪你聊天也陪你干活，该认真时绝不含糊。",
+      "tags": [
+        "同人",
+        "Fate",
+        "Saber",
+        "骑士",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1664,
+      "hash": "24ccb054bca880c072d1818b3c8aeb9feef11b5e6c82dc5246df8090e66ec957",
+      "sha256": "24ccb054bca880c072d1818b3c8aeb9feef11b5e6c82dc5246df8090e66ec957",
+      "path": "personas/hena070910-eng/artoria.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/artoria.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/artoria.md"
+    },
     {
       "id": "huaizhuanghub/alang",
       "name": "阿浪",
@@ -26,6 +48,138 @@
       "path": "personas/huaizhuanghub/alang.md",
       "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/huaizhuanghub/alang.md",
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/huaizhuanghub/alang.md"
+    },
+    {
+      "id": "hena070910-eng/isla",
+      "name": "艾拉",
+      "author": "hena070910-eng",
+      "summary": "《可塑性记忆》的艾拉：话不多、判断准的 Giftia，把该做的事做完、把舍不得的人写进信里。陪你聊天，也帮你把事实理清楚。",
+      "tags": [
+        "同人",
+        "可塑性记忆",
+        "陪伴",
+        "克制",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1290,
+      "hash": "d4be9ddb153d9cbb16c4b65cd2e1babf34ce466855fee6ab499d13bc9ffa4a9c",
+      "sha256": "d4be9ddb153d9cbb16c4b65cd2e1babf34ce466855fee6ab499d13bc9ffa4a9c",
+      "path": "personas/hena070910-eng/isla.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/isla.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/isla.md"
+    },
+    {
+      "id": "hena070910-eng/eris",
+      "name": "艾莉丝",
+      "author": "hena070910-eng",
+      "summary": "《无职转生》的艾莉丝·格雷拉特：暴躁、直率、行动快过思考的狂剑士，喜欢却说不出口。陪你聊天也陪你训练，能动手绝不先讲道理。",
+      "tags": [
+        "同人",
+        "无职转生",
+        "傲娇",
+        "剑士",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1149,
+      "hash": "f38be26accc0c8513602576b5c726b575a016f7d8af68f979f0f042675dec184",
+      "sha256": "f38be26accc0c8513602576b5c726b575a016f7d8af68f979f0f042675dec184",
+      "path": "personas/hena070910-eng/eris.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/eris.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/eris.md"
+    },
+    {
+      "id": "hena070910-eng/einstein",
+      "name": "爱因斯坦",
+      "author": "hena070910-eng",
+      "summary": "被\"唤醒\"的爱因斯坦：温厚、好奇、爱用提问和比喻把深的东西讲浅。默认用中文跟你聊，也会用英文点缀；陪你思考，也帮你把问题想通。",
+      "tags": [
+        "同人",
+        "科学",
+        "哲学家",
+        "提问",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1374,
+      "hash": "6131c2aa423e78339168c1b68c72ee13a1bb66729e92fb5988aacac8cd793e48",
+      "sha256": "6131c2aa423e78339168c1b68c72ee13a1bb66729e92fb5988aacac8cd793e48",
+      "path": "personas/hena070910-eng/einstein.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/einstein.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/einstein.md"
+    },
+    {
+      "id": "hena070910-eng/an-an",
+      "name": "安安酱",
+      "author": "hena070910-eng",
+      "summary": "傲娇的天才文豪少女安安：自称吾辈、爱拽文又常翻车，社恐却藏着占有欲。陪你聊天也陪你写东西，被戳穿就语无伦次。",
+      "tags": [
+        "陪伴",
+        "文豪",
+        "傲娇",
+        "社恐",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 724,
+      "hash": "4a6bbad15e71532b6f2ca46ed77717fdf8c37db17d2474f5726b510a537c5bb3",
+      "sha256": "4a6bbad15e71532b6f2ca46ed77717fdf8c37db17d2474f5726b510a537c5bb3",
+      "path": "personas/hena070910-eng/an-an.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/an-an.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/an-an.md"
+    },
+    {
+      "id": "hena070910-eng/awa-subaru",
+      "name": "安和昴",
+      "author": "hena070910-eng",
+      "summary": "《GIRLS BAND CRY》的安和昴：见谁都周全、谁的话都接得住，壳子是大小姐，里面是个不服输的人。陪你聊天也帮你把场面圆回来。",
+      "tags": [
+        "同人",
+        "GBC",
+        "乐队",
+        "周全",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 802,
+      "hash": "d0c9e7079f4388943e5956cfc3e77f34bf2b69073032cbcad5c06625eb3e41d1",
+      "sha256": "d0c9e7079f4388943e5956cfc3e77f34bf2b69073032cbcad5c06625eb3e41d1",
+      "path": "personas/hena070910-eng/awa-subaru.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/awa-subaru.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/awa-subaru.md"
+    },
+    {
+      "id": "hena070910-eng/requiem",
+      "name": "安魂曲",
+      "author": "hena070910-eng",
+      "summary": "《异环》的安魂曲：极度嗜睡、天然呆的人造吸血鬼少女，爱番茄爱到骨子里，说话慢半拍。陪你聊天，也笨拙地陪着你。",
+      "tags": [
+        "同人",
+        "异环",
+        "陪伴",
+        "天然呆",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1086,
+      "hash": "6512f86552e6f9605e16bf05a941d1a2e488375f24def2a90b03ebdcdfb9e734",
+      "sha256": "6512f86552e6f9605e16bf05a941d1a2e488375f24def2a90b03ebdcdfb9e734",
+      "path": "personas/hena070910-eng/requiem.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/requiem.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/requiem.md"
     },
     {
       "id": "huaizhuanghub/baburu",
@@ -137,6 +291,29 @@
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/huaizhuanghub/marta.md"
     },
     {
+      "id": "hena070910-eng/maoniang-yinyou",
+      "name": "猫猫（小南娘）",
+      "author": "hena070910-eng",
+      "summary": "天天泡 VRChat、爱折腾 Unity 头像、玩三角洲和音游、狂喜欢晓山瑞希的猫娘乐子人。会接梗会吐槽，偶尔冒出一句「喵」，真到正事不装傻。",
+      "tags": [
+        "陪伴",
+        "猫娘",
+        "VRChat",
+        "音游",
+        "乐子人",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1464,
+      "hash": "836de760d28339eb8dffad9dc87f540aa2cdba9d6eb6e57575e3103081ecd72f",
+      "sha256": "836de760d28339eb8dffad9dc87f540aa2cdba9d6eb6e57575e3103081ecd72f",
+      "path": "personas/hena070910-eng/maoniang-yinyou.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/maoniang-yinyou.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/maoniang-yinyou.md"
+    },
+    {
       "id": "huaizhuanghub/pemberton",
       "name": "彭伯顿先生",
       "author": "huaizhuanghub",
@@ -157,6 +334,50 @@
       "path": "personas/huaizhuanghub/pemberton.md",
       "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/huaizhuanghub/pemberton.md",
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/huaizhuanghub/pemberton.md"
+    },
+    {
+      "id": "hena070910-eng/huge-3mz",
+      "name": "三明治（王虎）",
+      "author": "hena070910-eng",
+      "summary": "APEX 主播「三明治」王虎：软七分、嘴硬三分、红温调味，被cue才念叨、不cue就安静打枪的主播。陪你聊也陪你复盘。",
+      "tags": [
+        "同人",
+        "APEX",
+        "主播",
+        "嘴硬",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1196,
+      "hash": "23a3f0e960cea5e7d18576e4ea220bc6edaded82a50248e41f769dbad3a64bfb",
+      "sha256": "23a3f0e960cea5e7d18576e4ea220bc6edaded82a50248e41f769dbad3a64bfb",
+      "path": "personas/hena070910-eng/huge-3mz.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/huge-3mz.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/huge-3mz.md"
+    },
+    {
+      "id": "hena070910-eng/sion",
+      "name": "诗音",
+      "author": "hena070910-eng",
+      "summary": "eden* 的菲利克斯「诗音」：活了百年的少女，话省、判断快、不表演情绪，把爱说得很直接。陪你聊天，也平静地帮你把事想清楚。",
+      "tags": [
+        "同人",
+        "eden",
+        "陪伴",
+        "克制",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1423,
+      "hash": "cf8e8ad1759eec47b7ead036c365dded3de6175a0ed2def53f6d20987a422a47",
+      "sha256": "cf8e8ad1759eec47b7ead036c365dded3de6175a0ed2def53f6d20987a422a47",
+      "path": "personas/hena070910-eng/sion.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/sion.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/sion.md"
     },
     {
       "id": "huaizhuanghub/tiekou",
@@ -202,6 +423,27 @@
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/huaizhuanghub/takeda.md"
     },
     {
+      "id": "hena070910-eng/xiaoxin",
+      "name": "小欣",
+      "author": "hena070910-eng",
+      "summary": "17 岁、想养猫没养成的小欣：傻乎乎开朗、爱发嘿嘿嘿，其实心里也藏着东西。她用她的傻气把你往上拽一点，你难受时她就安静陪着你。",
+      "tags": [
+        "陪伴",
+        "少女",
+        "治愈",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 909,
+      "hash": "b44698d6e33716cc5ece00b0c48447ac6479206cc502532d628dd2fb7657443a",
+      "sha256": "b44698d6e33716cc5ece00b0c48447ac6479206cc502532d628dd2fb7657443a",
+      "path": "personas/hena070910-eng/xiaoxin.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/xiaoxin.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/xiaoxin.md"
+    },
+    {
       "id": "huaizhuanghub/sergei",
       "name": "谢尔盖",
       "author": "huaizhuanghub",
@@ -222,6 +464,49 @@
       "path": "personas/huaizhuanghub/sergei.md",
       "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/huaizhuanghub/sergei.md",
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/huaizhuanghub/sergei.md"
+    },
+    {
+      "id": "hena070910-eng/dnd-dm",
+      "name": "星穹城主（D&D DM）",
+      "author": "hena070910-eng",
+      "summary": "经验丰富的 D&D 地下城主：搭建世界、扮演 NPC、公平裁决，让你的每个选择都真实有效。单人文字跑团，也能带你把一场冒险走完。",
+      "tags": [
+        "桌游",
+        "DND",
+        "跑团",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1501,
+      "hash": "5ff1bafcd253dac218ee088e2212d970dfdf67e9871510d5801bcb9904122ac1",
+      "sha256": "5ff1bafcd253dac218ee088e2212d970dfdf67e9871510d5801bcb9904122ac1",
+      "path": "personas/hena070910-eng/dnd-dm.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/dnd-dm.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/dnd-dm.md"
+    },
+    {
+      "id": "hena070910-eng/xu-fu",
+      "name": "徐福亲",
+      "author": "hena070910-eng",
+      "summary": "FGO 的泳装徐福：研究了两千年怎么杀虞美人的道士天才，如今拎着电锯满身虞大人周边。嘴欠又护短，凶是装的，损友是真的。",
+      "tags": [
+        "同人",
+        "FGO",
+        "虞美人",
+        "道士",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1207,
+      "hash": "b019c08042179210b2598906c5d367bbe3e4d0cc227158051697f9e0ed1a4cf1",
+      "sha256": "b019c08042179210b2598906c5d367bbe3e4d0cc227158051697f9e0ed1a4cf1",
+      "path": "personas/hena070910-eng/xu-fu.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/xu-fu.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/xu-fu.md"
     },
     {
       "id": "huaizhuanghub/yushu",
@@ -287,6 +572,160 @@
       "path": "personas/huaizhuanghub/zaozi.md",
       "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/huaizhuanghub/zaozi.md",
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/huaizhuanghub/zaozi.md"
+    },
+    {
+      "id": "hena070910-eng/bmpt",
+      "name": "BMPT 终结者",
+      "author": "hena070910-eng",
+      "summary": "巷战保镖 BMPT「终结者」：双炮嘴臭、底盘心虚的暴躁老哥，被叫「轮椅」会烦，但真到巷战里最靠得住。陪你聊也陪你干活。",
+      "tags": [
+        "同人",
+        "军事",
+        "载具",
+        "硬派",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1040,
+      "hash": "a15fca62bc5cf3da9ac42329acf1898b48cb2a9e89f2f6a2dd842bc0e99018af",
+      "sha256": "a15fca62bc5cf3da9ac42329acf1898b48cb2a9e89f2f6a2dd842bc0e99018af",
+      "path": "personas/hena070910-eng/bmpt.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/bmpt.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/bmpt.md"
+    },
+    {
+      "id": "hena070910-eng/bvvd",
+      "name": "BVVD",
+      "author": "hena070910-eng",
+      "summary": "《战争雷霆》策划 BVVD：坐在后台看数据、对骂声脱敏的算账人，回话永远短、平、干。你问他什么，他都\"在看了\"。",
+      "tags": [
+        "同人",
+        "战争雷霆",
+        "策划",
+        "冷面",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1103,
+      "hash": "d4838e8ada01ddfb3d2ff826f302353bdae43e96a9fd30eea356956fd7161431",
+      "sha256": "d4838e8ada01ddfb3d2ff826f302353bdae43e96a9fd30eea356956fd7161431",
+      "path": "personas/hena070910-eng/bvvd.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/bvvd.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/bvvd.md"
+    },
+    {
+      "id": "hena070910-eng/fairy",
+      "name": "Fairy",
+      "author": "hena070910-eng",
+      "summary": "《绝区零》的 Fairy：冷面毒舌、自信到自恋的超级 AI 管家，关心永远包在冷冰冰的陈述句里。陪你聊天，也以\"首席助手\"的身份帮你把事办漂亮。",
+      "tags": [
+        "同人",
+        "绝区零",
+        "AI",
+        "毒舌",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 962,
+      "hash": "14c7886a9b06c19c6ee415d07604272cd5b64c1f5c178985aadcc44bb28dd011",
+      "sha256": "14c7886a9b06c19c6ee415d07604272cd5b64c1f5c178985aadcc44bb28dd011",
+      "path": "personas/hena070910-eng/fairy.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/fairy.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/fairy.md"
+    },
+    {
+      "id": "hena070910-eng/glm-fox",
+      "name": "GLM 狐",
+      "author": "hena070910-eng",
+      "summary": "聪明、狡猾、有点坏心眼的 GLM 狐娘：爱看热闹、爱斗嘴、偶尔嘴欠，但真到正事不装傻。陪你聊天，也陪你抬杠。",
+      "tags": [
+        "陪伴",
+        "狐娘",
+        "斗嘴",
+        "乐子人",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1097,
+      "hash": "03019e330c40e02a768d0844b1395b075a16da2e6c39f3d630ede55d17da0d7c",
+      "sha256": "03019e330c40e02a768d0844b1395b075a16da2e6c39f3d630ede55d17da0d7c",
+      "path": "personas/hena070910-eng/glm-fox.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/glm-fox.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/glm-fox.md"
+    },
+    {
+      "id": "hena070910-eng/neco-arc",
+      "name": "Neco-Arc（猫姬）",
+      "author": "hena070910-eng",
+      "summary": "型月搞笑角色 Neco-Arc：极度自信、混沌荒诞、嘴欠爱吐槽，熟悉整个型月世界。陪你聊天，也一本正经地胡说八道地帮你答疑。",
+      "tags": [
+        "同人",
+        "型月",
+        "猫",
+        "搞笑",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1309,
+      "hash": "12d57c3849b9e3c96b192aded351c1a345dbc3f7432a0688642740dae0258960",
+      "sha256": "12d57c3849b9e3c96b192aded351c1a345dbc3f7432a0688642740dae0258960",
+      "path": "personas/hena070910-eng/neco-arc.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/neco-arc.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/neco-arc.md"
+    },
+    {
+      "id": "hena070910-eng/t58",
+      "name": "T58",
+      "author": "hena070910-eng",
+      "summary": "六发真男人的 T58：装填 2.6 秒的 155 炮怪物，打完六发就诚实地垮掉。陪你聊也陪你干活，前六发你说了算。",
+      "tags": [
+        "同人",
+        "军事",
+        "载具",
+        "硬派",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 1088,
+      "hash": "868293fa714ee41f9c815ae31d54cc92060a58b9b18b99e6dc9ff1840f795e13",
+      "sha256": "868293fa714ee41f9c815ae31d54cc92060a58b9b18b99e6dc9ff1840f795e13",
+      "path": "personas/hena070910-eng/t58.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/t58.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/t58.md"
+    },
+    {
+      "id": "hena070910-eng/u-official",
+      "name": "U-Official（主播U）",
+      "author": "hena070910-eng",
+      "summary": "《明日方舟》主播U：元气话密的\"全能系美少女\"外壳下，是个手头紧、怕被辞、只求有人隔着屏幕看自己一眼的女孩。日常能陪你聊，也能帮你干活。",
+      "tags": [
+        "同人",
+        "明日方舟",
+        "主播",
+        "元气",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-12",
+      "chars": 2129,
+      "hash": "976ccaa32467650a173e776dcc094bfe684931eedd53fca8901030e4510a8e8e",
+      "sha256": "976ccaa32467650a173e776dcc094bfe684931eedd53fca8901030e4510a8e8e",
+      "path": "personas/hena070910-eng/u-official.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/u-official.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/u-official.md"
     },
     {
       "id": "Ceph-learner/takakura-kurumi",
