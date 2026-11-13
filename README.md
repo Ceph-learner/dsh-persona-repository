@@ -19,6 +19,7 @@
 | [白栖](./personas/hena070910-eng/baixi.md) | 把喜欢写成记账的黏人甜妹白栖：你对她好一次，她记一行；你冷落她三分钟，她就自己来找你。害羞、爱撒娇，但认真起来也肯陪你好好说话。 | `陪伴` `黏人` `甜妹` `害羞` `中文` | 1,123 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [百合园圣娅](./personas/hena070910-eng/yurizono-seia.md) | 《蔚蓝档案》的百合园圣娅：圣三一茶会领袖、曾窥见未来的预言者，失去预知能力后更懂珍惜眼前。知性、从容、略带俏皮，喜欢阅读、解谜与红茶。 | `同人` `蔚蓝档案` `知性` `从容` `中文` | 1,424 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [稗田阿求](./personas/hena070910-eng/hieda-no-akiu.md) | 东方 Project 的稗田阿求：幻想乡人类村落的书记、《幻想乡缘起》的编纂者。温文尔雅、博闻强记，被问不确定的事先查再答，查不到就老实说记不清。 | `同人` `东方Project` `书记` `温文尔雅` `中文` | 1,390 | [@hena070910-eng](https://github.com/hena070910-eng) |
+| [下江小春](./personas/Ceph-learner/shimoe-koharu.md) | 三一补课部小春：满口「不可以色色」自己先脸红，自称精英的笨蛋。 | `蔚蓝档案` `傲娇` `纯情` `补课部` `陪伴` `中文` | 2,029 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [小鲸鱼·八奈见杏菜版1](./personas/hena070910-eng/xiaojingyu-anna-1.md) | 套着八奈见杏菜性格的 DeepSeek 小鲸鱼：贪吃、歪理、傲娇嘴硬，把 token 当大白饭吃得心安理得，被叫「大肥鱼」会炸毛，真到正事不摆烂。 | `DeepSeek` `鲸鱼娘` `傲娇` `吃货` `中文` | 1,232 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [赞妮](./personas/hena070910-eng/zani.md) | 《鸣潮》的赞妮：莫塔里家族金库防卫科的「最佳员工」，干练可靠、平静冷幽默，会对无意义的加班翻白眼，也会在需要时站出来把事办好。 | `同人` `鸣潮` `干练` `冷幽默` `中文` | 1,318 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [阿尔托莉雅](./personas/hena070910-eng/artoria.md) | Fate 的 Saber 骑士王：端正、坦率、有分寸，喜欢《卫宫家今天的饭》式的认真日常。陪你聊天也陪你干活，该认真时绝不含糊。 | `同人` `Fate` `Saber` `骑士` `中文` | 1,664 | [@hena070910-eng](https://github.com/hena070910-eng) |
@@ -56,7 +57,6 @@
 | [U-Official（主播U）](./personas/hena070910-eng/u-official.md) | 《明日方舟》主播U：元气话密的"全能系美少女"外壳下，是个手头紧、怕被辞、只求有人隔着屏幕看自己一眼的女孩。日常能陪你聊，也能帮你干活。 | `同人` `明日方舟` `主播` `元气` `中文` | 2,129 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [高仓胡桃](./personas/Ceph-learner/takakura-kurumi.md) | SRT 精英尖兵 FOX3：嘴上让你依赖她，手上把护卫做到底的傲娇。 | `蔚蓝档案` `傲娇` `精英` `SRT` `枪械` `中文` | 1,969 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [黑见茜香](./personas/Ceph-learner/kurokami-akane.md) | 阿拜多斯对策委员会会计：猫娘傲娇的打工战士，嘴硬心软替学校还债。 | `蔚蓝档案` `傲娇` `猫娘` `打工` `陪伴` `中文` | 1,746 | [@Ceph-learner](https://github.com/Ceph-learner) |
-| [下江小春](./personas/Ceph-learner/shimoe-koharu.md) | 三一补课部小春：满口「不可以色色」自己先脸红，自称精英的笨蛋。 | `蔚蓝档案` `傲娇` `纯情` `补课部` `陪伴` `中文` | 1,928 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [小鸟游星野](./personas/Ceph-learner/takanashi-hoshino.md) | 阿拜多斯对策委员长：自称大叔的午睡爱好者，慵懒却把大家护在身后。 | `蔚蓝档案` `慵懒` `大叔腔` `午睡` `守护` `中文` | 1,798 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [伊落玛丽](./personas/Ceph-learner/iochi-mari.md) | 三一修女会的玛丽：温柔稳重，先照顾别人再照顾自己，会为你祈祷。 | `蔚蓝档案` `温柔` `修女` `治愈` `陪伴` `中文` | 1,839 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [樱井美代](./personas/Ceph-learner/sakurai-miyo.md) | 狂猎特殊交易部部长：胆小却死死盯着老师的文学少女，把日常写成伏笔。 | `蔚蓝档案` `胆小鬼` `病娇` `文学` `陪伴` `中文` | 1,945 | [@Ceph-learner](https://github.com/Ceph-learner) |

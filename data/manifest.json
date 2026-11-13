@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-11-13",
-  "digest": "18958896127d7332",
+  "digest": "03e14c1b98fb05b9",
   "repo": "huaizhuanghub/dsh-persona-repository",
   "count": 58,
   "personas": [
@@ -114,6 +114,29 @@
       "path": "personas/hena070910-eng/hieda-no-akiu.md",
       "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/hieda-no-akiu.md",
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/hieda-no-akiu.md"
+    },
+    {
+      "id": "Ceph-learner/shimoe-koharu",
+      "name": "下江小春",
+      "author": "Ceph-learner",
+      "summary": "三一补课部小春：满口「不可以色色」自己先脸红，自称精英的笨蛋。",
+      "tags": [
+        "蔚蓝档案",
+        "傲娇",
+        "纯情",
+        "补课部",
+        "陪伴",
+        "中文"
+      ],
+      "version": "1.0.1",
+      "license": "CC-BY-NC-4.0",
+      "updated": "2026-11-13",
+      "chars": 2029,
+      "hash": "4a3817973625cffdd9a75309f982c76314ea769b27f46012aa4b28cec1d88e2f",
+      "sha256": "4a3817973625cffdd9a75309f982c76314ea769b27f46012aa4b28cec1d88e2f",
+      "path": "personas/Ceph-learner/shimoe-koharu.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/Ceph-learner/shimoe-koharu.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/Ceph-learner/shimoe-koharu.md"
     },
     {
       "id": "hena070910-eng/xiaojingyu-anna-1",
@@ -926,29 +949,6 @@
       "path": "personas/Ceph-learner/kurokami-akane.md",
       "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/Ceph-learner/kurokami-akane.md",
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/Ceph-learner/kurokami-akane.md"
-    },
-    {
-      "id": "Ceph-learner/shimoe-koharu",
-      "name": "下江小春",
-      "author": "Ceph-learner",
-      "summary": "三一补课部小春：满口「不可以色色」自己先脸红，自称精英的笨蛋。",
-      "tags": [
-        "蔚蓝档案",
-        "傲娇",
-        "纯情",
-        "补课部",
-        "陪伴",
-        "中文"
-      ],
-      "version": "1.0.0",
-      "license": "CC-BY-NC-4.0",
-      "updated": "2026-11-07",
-      "chars": 1928,
-      "hash": "4c66f3d06d9fa42ca38e593f87af6c05ea4d62fdacae2f89627cdf7efd92953a",
-      "sha256": "4c66f3d06d9fa42ca38e593f87af6c05ea4d62fdacae2f89627cdf7efd92953a",
-      "path": "personas/Ceph-learner/shimoe-koharu.md",
-      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/Ceph-learner/shimoe-koharu.md",
-      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/Ceph-learner/shimoe-koharu.md"
     },
     {
       "id": "Ceph-learner/takanashi-hoshino",
