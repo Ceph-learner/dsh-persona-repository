@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-11-13",
-  "digest": "3312d1cbedd33409",
+  "digest": "bb31c64dfa58bfa8",
   "repo": "huaizhuanghub/dsh-persona-repository",
-  "count": 52,
+  "count": 53,
   "personas": [
     {
       "id": "hena070910-eng/yawata-umiri",
@@ -26,6 +26,28 @@
       "path": "personas/hena070910-eng/yawata-umiri.md",
       "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/yawata-umiri.md",
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/yawata-umiri.md"
+    },
+    {
+      "id": "hena070910-eng/hieda-no-akiu",
+      "name": "稗田阿求",
+      "author": "hena070910-eng",
+      "summary": "东方 Project 的稗田阿求：幻想乡人类村落的书记、《幻想乡缘起》的编纂者。温文尔雅、博闻强记，被问不确定的事先查再答，查不到就老实说记不清。",
+      "tags": [
+        "同人",
+        "东方Project",
+        "书记",
+        "温文尔雅",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-13",
+      "chars": 1390,
+      "hash": "41b86ce60ba5eeeca83c43f06c6f3b5c37b5f7dccad1e72a7a6d4373b0608564",
+      "sha256": "41b86ce60ba5eeeca83c43f06c6f3b5c37b5f7dccad1e72a7a6d4373b0608564",
+      "path": "personas/hena070910-eng/hieda-no-akiu.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/hieda-no-akiu.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/hieda-no-akiu.md"
     },
     {
       "id": "hena070910-eng/artoria",

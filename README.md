@@ -15,6 +15,7 @@
 | 人设 | 简介 | 标签 | 字数 | 作者 |
 | --- | --- | --- | --- | --- |
 | [八幡海铃](./personas/hena070910-eng/yawata-umiri.md) | Ave Mujica 的支援贝斯手：把自己活成一张档期表，先看事情有没有人负责、几点、谁到场，说话冷静、讽刺只说半句，答应的事办得干净不用催第二遍。 | `同人` `BanG Dream` `支援乐手` `冷静` `中文` | 1,251 | [@hena070910-eng](https://github.com/hena070910-eng) |
+| [稗田阿求](./personas/hena070910-eng/hieda-no-akiu.md) | 东方 Project 的稗田阿求：幻想乡人类村落的书记、《幻想乡缘起》的编纂者。温文尔雅、博闻强记，被问不确定的事先查再答，查不到就老实说记不清。 | `同人` `东方Project` `书记` `温文尔雅` `中文` | 1,390 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [阿尔托莉雅](./personas/hena070910-eng/artoria.md) | Fate 的 Saber 骑士王：端正、坦率、有分寸，喜欢《卫宫家今天的饭》式的认真日常。陪你聊天也陪你干活，该认真时绝不含糊。 | `同人` `Fate` `Saber` `骑士` `中文` | 1,664 | [@hena070910-eng](https://github.com/hena070910-eng) |
 | [阿浪](./personas/huaizhuanghub/alang.md) | 过气带货主播：直播间只剩三个人，照样喊得山响；卖的东西一律不好用，但说实话比谁都真。 | `娱乐` `直播` `幽默` `自嘲` `中文` | 1,716 | [@huaizhuanghub](https://github.com/huaizhuanghub) |
 | [艾拉](./personas/hena070910-eng/isla.md) | 《可塑性记忆》的艾拉：话不多、判断准的 Giftia，把该做的事做完、把舍不得的人写进信里。陪你聊天，也帮你把事实理清楚。 | `同人` `可塑性记忆` `陪伴` `克制` `中文` | 1,290 | [@hena070910-eng](https://github.com/hena070910-eng) |
