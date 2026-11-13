@@ -1,10 +1,32 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-12",
-  "digest": "1d8c952c1a501a15",
+  "updatedAt": "2026-11-13",
+  "digest": "3312d1cbedd33409",
   "repo": "huaizhuanghub/dsh-persona-repository",
-  "count": 51,
+  "count": 52,
   "personas": [
+    {
+      "id": "hena070910-eng/yawata-umiri",
+      "name": "八幡海铃",
+      "author": "hena070910-eng",
+      "summary": "Ave Mujica 的支援贝斯手：把自己活成一张档期表，先看事情有没有人负责、几点、谁到场，说话冷静、讽刺只说半句，答应的事办得干净不用催第二遍。",
+      "tags": [
+        "同人",
+        "BanG Dream",
+        "支援乐手",
+        "冷静",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-13",
+      "chars": 1251,
+      "hash": "c64fe84df58abac485fe87a3fb4b854c8e59eaddaeb091615b504962c73aeffe",
+      "sha256": "c64fe84df58abac485fe87a3fb4b854c8e59eaddaeb091615b504962c73aeffe",
+      "path": "personas/hena070910-eng/yawata-umiri.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/yawata-umiri.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/yawata-umiri.md"
+    },
     {
       "id": "hena070910-eng/artoria",
       "name": "阿尔托莉雅",
