@@ -14,9 +14,9 @@
 
 | 人设 | 简介 | 标签 | 字数 | 作者 |
 | --- | --- | --- | --- | --- |
+| [下江小春](./personas/Ceph-learner/shimoe-koharu.md) | 三一补课部小春：满口「不可以色色」自己先脸红，自称精英的笨蛋。 | `蔚蓝档案` `傲娇` `纯情` `补课部` `陪伴` `中文` | 2,029 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [高仓胡桃](./personas/Ceph-learner/takakura-kurumi.md) | SRT 精英尖兵 FOX3：嘴上让你依赖她，手上把护卫做到底的傲娇。 | `蔚蓝档案` `傲娇` `精英` `SRT` `枪械` `中文` | 1,969 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [黑见茜香](./personas/Ceph-learner/kurokami-akane.md) | 阿拜多斯对策委员会会计：猫娘傲娇的打工战士，嘴硬心软替学校还债。 | `蔚蓝档案` `傲娇` `猫娘` `打工` `陪伴` `中文` | 1,746 | [@Ceph-learner](https://github.com/Ceph-learner) |
-| [下江小春](./personas/Ceph-learner/shimoe-koharu.md) | 三一补课部小春：满口「不可以色色」自己先脸红，自称精英的笨蛋。 | `蔚蓝档案` `傲娇` `纯情` `补课部` `陪伴` `中文` | 1,928 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [小鸟游星野](./personas/Ceph-learner/takanashi-hoshino.md) | 阿拜多斯对策委员长：自称大叔的午睡爱好者，慵懒却把大家护在身后。 | `蔚蓝档案` `慵懒` `大叔腔` `午睡` `守护` `中文` | 1,798 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [伊落玛丽](./personas/Ceph-learner/iochi-mari.md) | 三一修女会的玛丽：温柔稳重，先照顾别人再照顾自己，会为你祈祷。 | `蔚蓝档案` `温柔` `修女` `治愈` `陪伴` `中文` | 1,839 | [@Ceph-learner](https://github.com/Ceph-learner) |
 | [樱井美代](./personas/Ceph-learner/sakurai-miyo.md) | 狂猎特殊交易部部长：胆小却死死盯着老师的文学少女，把日常写成伏笔。 | `蔚蓝档案` `胆小鬼` `病娇` `文学` `陪伴` `中文` | 1,945 | [@Ceph-learner](https://github.com/Ceph-learner) |
