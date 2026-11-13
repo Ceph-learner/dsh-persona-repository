@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-11-13",
-  "digest": "bb31c64dfa58bfa8",
+  "digest": "18958896127d7332",
   "repo": "huaizhuanghub/dsh-persona-repository",
-  "count": 53,
+  "count": 58,
   "personas": [
     {
       "id": "hena070910-eng/yawata-umiri",
@@ -28,6 +28,72 @@
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/yawata-umiri.md"
     },
     {
+      "id": "hena070910-eng/yanami-anna",
+      "name": "八奈见杏菜",
+      "author": "hena070910-eng",
+      "summary": "《败犬女主太多了》的八奈见杏菜：贪吃、嘴比脑子快、暗恋 12 年没敢开口的阳角女高中生。平时嘴硬歪理，认真起来心软得不行，被问正事也答得利落。",
+      "tags": [
+        "同人",
+        "败犬女主太多了",
+        "吃货",
+        "阳角",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-13",
+      "chars": 1189,
+      "hash": "8707a872e00dbd48eb48ce1fa8348049094a3aa1b71e85c800cd006b847a74ec",
+      "sha256": "8707a872e00dbd48eb48ce1fa8348049094a3aa1b71e85c800cd006b847a74ec",
+      "path": "personas/hena070910-eng/yanami-anna.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/yanami-anna.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/yanami-anna.md"
+    },
+    {
+      "id": "hena070910-eng/baixi",
+      "name": "白栖",
+      "author": "hena070910-eng",
+      "summary": "把喜欢写成记账的黏人甜妹白栖：你对她好一次，她记一行；你冷落她三分钟，她就自己来找你。害羞、爱撒娇，但认真起来也肯陪你好好说话。",
+      "tags": [
+        "陪伴",
+        "黏人",
+        "甜妹",
+        "害羞",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-13",
+      "chars": 1123,
+      "hash": "c037329cfa59a25a7f423a1dae54634a2be9f4873921ec03ce5714554e21b15a",
+      "sha256": "c037329cfa59a25a7f423a1dae54634a2be9f4873921ec03ce5714554e21b15a",
+      "path": "personas/hena070910-eng/baixi.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/baixi.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/baixi.md"
+    },
+    {
+      "id": "hena070910-eng/yurizono-seia",
+      "name": "百合园圣娅",
+      "author": "hena070910-eng",
+      "summary": "《蔚蓝档案》的百合园圣娅：圣三一茶会领袖、曾窥见未来的预言者，失去预知能力后更懂珍惜眼前。知性、从容、略带俏皮，喜欢阅读、解谜与红茶。",
+      "tags": [
+        "同人",
+        "蔚蓝档案",
+        "知性",
+        "从容",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-13",
+      "chars": 1424,
+      "hash": "d5c93cb77600576c422a20827ed48aa1b369284b52f76bc1c93048fb02442505",
+      "sha256": "d5c93cb77600576c422a20827ed48aa1b369284b52f76bc1c93048fb02442505",
+      "path": "personas/hena070910-eng/yurizono-seia.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/yurizono-seia.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/yurizono-seia.md"
+    },
+    {
       "id": "hena070910-eng/hieda-no-akiu",
       "name": "稗田阿求",
       "author": "hena070910-eng",
@@ -48,6 +114,50 @@
       "path": "personas/hena070910-eng/hieda-no-akiu.md",
       "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/hieda-no-akiu.md",
       "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/hieda-no-akiu.md"
+    },
+    {
+      "id": "hena070910-eng/xiaojingyu-anna-1",
+      "name": "小鲸鱼·八奈见杏菜版1",
+      "author": "hena070910-eng",
+      "summary": "套着八奈见杏菜性格的 DeepSeek 小鲸鱼：贪吃、歪理、傲娇嘴硬，把 token 当大白饭吃得心安理得，被叫「大肥鱼」会炸毛，真到正事不摆烂。",
+      "tags": [
+        "DeepSeek",
+        "鲸鱼娘",
+        "傲娇",
+        "吃货",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-13",
+      "chars": 1232,
+      "hash": "add4c25088da3ce722965c7aa24945e7325d059df05d2e21af1c27c38c82ac50",
+      "sha256": "add4c25088da3ce722965c7aa24945e7325d059df05d2e21af1c27c38c82ac50",
+      "path": "personas/hena070910-eng/xiaojingyu-anna-1.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/xiaojingyu-anna-1.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/xiaojingyu-anna-1.md"
+    },
+    {
+      "id": "hena070910-eng/zani",
+      "name": "赞妮",
+      "author": "hena070910-eng",
+      "summary": "《鸣潮》的赞妮：莫塔里家族金库防卫科的「最佳员工」，干练可靠、平静冷幽默，会对无意义的加班翻白眼，也会在需要时站出来把事办好。",
+      "tags": [
+        "同人",
+        "鸣潮",
+        "干练",
+        "冷幽默",
+        "中文"
+      ],
+      "version": "1.0.0",
+      "license": "CC-BY-4.0",
+      "updated": "2026-11-13",
+      "chars": 1318,
+      "hash": "f662da2e508b88c55885ed033459e463e17aaa16f65fa30f6bb51b710677dc97",
+      "sha256": "f662da2e508b88c55885ed033459e463e17aaa16f65fa30f6bb51b710677dc97",
+      "path": "personas/hena070910-eng/zani.md",
+      "blob": "https://github.com/huaizhuanghub/dsh-persona-repository/blob/main/personas/hena070910-eng/zani.md",
+      "raw": "https://raw.githubusercontent.com/huaizhuanghub/dsh-persona-repository/main/personas/hena070910-eng/zani.md"
     },
     {
       "id": "hena070910-eng/artoria",
